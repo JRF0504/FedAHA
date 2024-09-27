@@ -1,0 +1,7 @@
+train: /home/jiaruofan/FedRS/dataset/VOC_07_10/client_6.txt
+val: /home/data/VOC2007/test.txt
+
+# Classes
+nc: 20  # number of classes
+names: ['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog',
+        'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor']  # class names

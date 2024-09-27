@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: /home/data/DroneVehicle/train/train.txt  # 520 images
+val: /home/data/DroneVehicle/val/val.txt  # 130 images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['car', 'pickup', 'camping','truck', 'other', 'tractor', 'boat', 'van']
