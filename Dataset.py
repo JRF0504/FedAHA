@@ -73,7 +73,7 @@ def load_yaml(data, autodownload=True):
                 raise Exception('Dataset not found.')
 
     return data  # dictionary
-class NWPUDataset(Dataset):
+class ValDataset(Dataset):
     def __init__(self, opt):
         with torch_distributed_zero_first(LOCAL_RANK):
             data_dict = load_yaml(opt.data_path)  # check if None
