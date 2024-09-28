@@ -1,2 +1,2 @@
 # Adaptive Hierarchical Aggregation for Federated Object Detection
-Our paper was accpeted by ACM Multimedia 2024.
+Our [paper](https://openreview.net/forum?id=opVCEvRsTM) was accpeted by ACM Multimedia 2024.
