@@ -13,5 +13,8 @@ year={2024},
 url={https://openreview.net/forum?id=opVCEvRsTM}
 }
 ```
+## Requirements
+* pytorch
+* ultralytics
 ## Acknowledgement
 Our code is built on Ultralytics' [YOLOv5](https://github.com/ultralytics/yolov5) and [RT-DETR](https://docs.ultralytics.com/models/rtdetr/).
