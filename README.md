@@ -14,4 +14,4 @@ url={https://openreview.net/forum?id=opVCEvRsTM}
 }
 ```
 ## Acknowledgement
-Our code is built on [Ultralytics'](https://www.ultralytics.com/) [YOLOv5](https://github.com/ultralytics/yolov5) and [RT-DETR](https://docs.ultralytics.com/models/rtdetr/).
+Our code is built on Ultralytics' [YOLOv5](https://github.com/ultralytics/yolov5) and [RT-DETR](https://docs.ultralytics.com/models/rtdetr/).
