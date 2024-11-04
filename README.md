@@ -4,13 +4,12 @@ Our [paper](https://openreview.net/forum?id=opVCEvRsTM) was accpeted by ACM Mult
 ![Overview](readme/Overview.png)
 ## Citation
 ```
-@inproceedings{
-jia2024adaptive,
-title={Adaptive Hierarchical Aggregation for Federated Object Detection},
-author={Ruofan Jia and Weiying Xie and Jie Lei and Yunsong Li},
-booktitle={ACM Multimedia 2024},
-year={2024},
-url={https://openreview.net/forum?id=opVCEvRsTM}
+@inproceedings{jia2024adaptive,
+  title={Adaptive Hierarchical Aggregation for Federated Object Detection},
+  author={Jia, Ruofan and Xie, Weiying and Lei, Jie and Li, Yunsong},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={3732--3740},
+  year={2024}
 }
 ```
 ## Requirements
